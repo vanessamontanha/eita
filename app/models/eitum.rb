@@ -1,0 +1,2 @@
+class Eitum < ApplicationRecord
+end
